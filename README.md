@@ -1,0 +1,2 @@
+# componente-comune
+Componentele-mele
